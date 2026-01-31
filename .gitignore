@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Certificate private keys (exclude unless professor explicitly wants them)
+out/*.key
+pki/out/*.key

@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+cryptography==42.0.8
+requests==2.32.3
+
