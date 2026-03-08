@@ -1,3 +1,5 @@
-basicConstraints = CA:FALSE
-keyUsage = critical, digitalSignature, keyEncipherment
-extendedKeyUsage = clientAuth
+basicConstraints=critical,CA:false
+keyUsage=critical,digitalSignature
+extendedKeyUsage=clientAuth
+subjectKeyIdentifier=hash
+authorityKeyIdentifier=keyid,issuer

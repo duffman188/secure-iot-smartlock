@@ -1,0 +1,9 @@
+======== Running on https://127.0.0.1:8443 ========
+(Press CTRL+C to quit)
+[DEBUG] incoming GET /health
+[DEBUG] /health hit
+[DEBUG] completed GET /health -> 200
+[DEBUG] incoming GET /api/status
+[DEBUG] /api/status hit
+[DEBUG] peer cert loaded
+[DEBUG] completed GET /api/status -> 200
